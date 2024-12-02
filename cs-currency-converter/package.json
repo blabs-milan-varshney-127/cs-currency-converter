@@ -1,0 +1,22 @@
+{
+  "name": "cs-currency-converter",
+  "version": "1.0.0",
+  "description": "an npm package for currency converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blabs-milan-varshney-127/cs-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Milan varshney",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/blabs-milan-varshney-127/cs-currency-converter/issues"
+  },
+  "homepage": "https://github.com/blabs-milan-varshney-127/cs-currency-converter#readme"
+}
